@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Find My Location</string>
+    <string name="instruction">First you should scan the QR-Code. Then Find My Location App will display the map on layout.
+        After that you should select the position which you want to reach on the map and toch on the start button.
+        For more details contact us.</string>
+    <string name="contactus">Contact Us: 011-1234567</string>
+</resources>

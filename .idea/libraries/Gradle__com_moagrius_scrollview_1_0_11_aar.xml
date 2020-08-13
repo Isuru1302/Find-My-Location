@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.moagrius:scrollview:1.0.11@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5f14b792c6a967bba3d15fd6ad7c26be/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5f14b792c6a967bba3d15fd6ad7c26be/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.moagrius/scrollview/1.0.11/b532334452ee35b5b4b4367c7c0431ab44f0c430/scrollview-1.0.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
